@@ -1,0 +1,81 @@
+
+
+
+body {background-color: black;}
+
+*{
+    color: rgb(226, 43, 43);
+    text-align: center;
+}
+
+.parrafo {
+     color: #00f7ff;
+     width: 500px;
+  
+    
+}
+
+/**Aplicando lo aprendido del curso*/
+
+.nombre{
+  font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+    padding-top: 20px;
+    padding: 15px;
+    padding-left: 15px;
+    padding-right: 20px;
+    font-weight: bold;
+    color: grey;
+}
+
+.historia{
+  border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+
+}
+
+section {
+  
+    width: 1000px;
+    border: 20px solid green;
+    padding: 100px;
+    margin: 50px;
+  }
+  
+section h3 {
+
+  color: rgb(226, 153, 43);
+
+}
+
+
+  #titulo{
+    color: rgb(226, 43, 128);
+    font-size: 20px;
+    border: 3px solid orangered
+  }
+
+  
+nav ul{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+nav ul li{
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px 20px;
+  background-color: rgb(250, 215, 227);
+}
